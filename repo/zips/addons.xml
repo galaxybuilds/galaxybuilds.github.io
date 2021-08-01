@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.galaxybuilds" name="Galaxy Builds Repo" version="1.0" provider-name="galaxybuilds">
-    <extension point="xbmc.addon.repository" name="Galaxy Builds Repo">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repo/zips/</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Galaxy Builds Repo</summary>
-        <description>Galaxy Builds Repo v1.0</description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.program.galaxywizard" name="Galaxy Builds Wizard" version="1.7.1" provider-name="galaxybuilds">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
