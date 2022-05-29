@@ -1,6 +1,6 @@
 id="plugin.program.galaxywizard"
-version="2.1.1"
-zip="https://galaxybuilds.github.io/plugin.program.galaxywizard-2.1.1.zip"
+version="2.1.2"
+zip="https://galaxybuilds.github.io/plugin.program.galaxywizard-2.1.2.zip"
 
 name="Milky Way"
 version="5.0.1"
