@@ -17,7 +17,7 @@ ADDONTITLE = 'Galaxy Builds Wizard'
 BUILDERNAME = 'GalaxyWizard'
 EXCLUDES = [ADDON_ID, '']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://hitznow.xyz/repodocs/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -41,18 +41,18 @@ ADVANCEDFILE = 'http://'
 # Example:  ICONMAINT     = os.path.join(ART, 'mainticon.png')
 #           ICONSETTINGS  = 'https://www.yourhost.com/repo/wizard/settings.png'
 # Leave as http:// for default icon
-ICONBUILDS = 'https://hitznow.xyz/repodocs/wizimgs/builds.png'
-ICONMAINT = 'https://hitznow.xyz/repodocs/wizimgs/maintenance.png'
-ICONSPEED = 'https://hitznow.xyz/repodocs/wizimgs/speed.png'
-ICONAPK = 'https://hitznow.xyz/repodocs/wizimgs/apkinstaller.png'
-ICONADDONS = 'https://hitznow.xyz/repodocs/wizimgs/addoninstaller.png'
-ICONYOUTUBE = 'https://hitznow.xyz/repodocs/wizimgs/youtube.png'
-ICONSAVE = 'https://hitznow.xyz/repodocs/wizimgs/savedata.png'
-ICONTRAKT = 'https://hitznow.xyz/repodocs/wizimgs/keeptrakt.png'
-ICONREAL = 'https://hitznow.xyz/repodocs/wizimgs/keepdebrid.png'
-ICONLOGIN = 'https://hitznow.xyz/repodocs/wizimgs/keeplogin.png'
-ICONCONTACT = 'https://hitznow.xyz/repodocs/wizimgs/information.png'
-ICONSETTINGS = 'https://hitznow.xyz/repodocs/wizimgs/settings.png'
+ICONBUILDS = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/builds.png'
+ICONMAINT = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/maintenance.png'
+ICONSPEED = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/speed.png'
+ICONAPK = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/apkinstaller.png'
+ICONADDONS = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/addoninstaller.png'
+ICONYOUTUBE = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/youtube.png'
+ICONSAVE = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/savedata.png'
+ICONTRAKT = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/keeptrakt.png'
+ICONREAL = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/keepdebrid.png'
+ICONLOGIN = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/keeplogin.png'
+ICONCONTACT = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/information.png'
+ICONSETTINGS = 'https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/wizimgs/settings.png'
 # Hide the section separators 'Yes' or 'No'
 HIDESPACERS = 'No'
 # Character used in separator
