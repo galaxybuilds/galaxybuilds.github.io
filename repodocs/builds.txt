@@ -32,7 +32,7 @@ description="Milky Way v6.0.1 ... Includes access to on demand MOVIES and TV SHO
 
 # name="MWBeta"
 # version="6.0.1"
-# url="https://www.dropbox.com/s/7y6j8zfu57b3xba/milky_way_6.0.1.zip?raw=1"
+# url="https://www.dropbox.com/s/lmak3qcza2dlrnk/milky_way_6.1.1.zip?raw=1"
 # minor="http://"
 # gui="http://"
 # kodi="19.3"
