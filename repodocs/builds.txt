@@ -32,10 +32,10 @@ description="Milky Way v6.1.2 ... Includes access to on demand MOVIES and TV SHO
 
 # name="MWBeta"
 # version="7.0.1"
-# url="https://www.dropbox.com/s/ouh8b3q9ga4n2t3/milky_way_7.0.1.zip?dl=0"
+# url="https://www.dropbox.com/s/ouh8b3q9ga4n2t3/milky_way_7.0.1.zip?raw=1"
 # minor="http://"
 # gui="http://"
-# kodi="19.4"
+# kodi="20.1"
 # theme="http://"
 # icon="https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/milky_thumb.png"
 # fanart="https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/master/repodocs/fanart.jpg"
