@@ -30,7 +30,7 @@ adult="no"
 info="http://"
 description="Milky Way v6.1.2 ... Includes access to on demand MOVIES and TV SHOWS plus LIVE SPORTS content and LIVE TV channels. Works with Kodi 19 only, and requires a RealDebrid account!"
 
-name="Milky Way"
+name="MWBetaBuild"
 version="8.0.1"
 url="https://www.dropbox.com/s/t7k2gqqjwbix0z2/milky_way_8.0.1.zip?raw=1"
 minor="http://"
