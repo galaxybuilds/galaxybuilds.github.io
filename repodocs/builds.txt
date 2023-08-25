@@ -28,7 +28,7 @@ fanart="https://raw.githubusercontent.com/galaxybuilds/galaxybuilds.github.io/ma
 preview="http://"
 adult="no"
 info="http://"
-description="Milky Way v8.0.4 ... Includes access to on demand MOVIES and TV SHOWS! Works with Kodi 19 and 20 only, and requires a RealDebrid account!"
+description="Milky Way v8.0.4 ... Includes access to on demand MOVIES and TV SHOWS, plus LIVE TV and SPORTS! Works with Kodi 19 and 20 only, and requires a RealDebrid account!"
 
 name="MWBetaBuild"
 version="8.1.0"
